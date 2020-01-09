@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mauritius Wild Life</string>
+
+    <string name="discover">DISCOVER</string>
+    <string name="contact_nus">CONTACT  US</string>
+    <string name="our_ecotour">OUR  ECOTOUR</string>
+    <string name="our_projects">OUR  PROJECTS</string>
+    <string name="how_to_help">HOW TO  HELP?</string>
+    <string name="our_shops">OUR  SHOPS</string>
+    <string name="follow_us">FOLLOW  US</string>
+    <string name="terms_and_conditions">TERMS AND  CONDITIONS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="testing_purposes">Testing purposes</string>
+    <string name="who_are_we">WHO  ARE WE?</string>
+
+
+    <string name="what_we_do">What We Do?</string>
+    <string name="who_are_we1">WHO ARE WE?</string>
+    <!--<string name="mission">What Is Our Mission?</string>
+     <string name="BOD">Board of Directors</string>
+     <string name="partners">Our Partners</string>-->
+
+    <string-array name="what_we_do">
+        <item>
+            testing111111
+        </item>
+    </string-array>
+
+
+</resources>
