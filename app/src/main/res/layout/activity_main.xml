@@ -7,5 +7,5 @@
     tools:context=".MainActivity">
 
 
-
+//This is a test comment
 </androidx.constraintlayout.widget.ConstraintLayout>
